@@ -1,0 +1,31 @@
+{
+  "expenses": [
+    {
+      "expense": 0
+    },
+    {
+      "expense": 123123
+    },
+    {
+      "expense": 123123
+    },
+    {
+      "expense": 123123
+    },
+    {
+      "expense": 1500
+    },
+    {
+      "expense": 1500
+    },
+    {
+      "expense": 1500
+    },
+    {
+      "expense": 3000
+    },
+    {
+      "expense": 99
+    }
+  ]
+}
